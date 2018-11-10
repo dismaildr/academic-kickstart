@@ -41,5 +41,19 @@ date_format = "January 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+  
+ [[experience]]
+ title = "Da Big Dawg"
+  company = "The Big Dawgers"
+  company_url = "http://www.bigdawg.com"
+  location = "Earth"
+  date_start = "2010-01-01"
+  date_end = "2036-12-31"
+  description = """Being a badd ass y0"""
+  Doing Thang :
+  
+  * Holding dat haha
+  * folding that fafa
+  * Singin that yaya
 
 +++
