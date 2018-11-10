@@ -12,7 +12,9 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Computational Linguistics",
-    "Information Retrieval"
+    "Information Retrieval",
+    "Getting jiggy with it",
+    "Nanananan Na"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -30,11 +32,18 @@ weight = 5
   course = "BSc in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
   year = 2008
+  
+[[education.courses]]
+  course = "Diploma Multiple"
+  institution = "check site \n  www.google.com "
+  year = 2098
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Norn kaka , 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+None hahaha 
+
+Fil Fil 
