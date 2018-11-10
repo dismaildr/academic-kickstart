@@ -42,7 +42,7 @@ weight = 7
 [[feature]]
   icon = "ambulance"
   icon_pack = "fas"
-  name = "Speicals \m Skills"
+  name = "SpeicalsSkills"
   description = "100%"
 
 
