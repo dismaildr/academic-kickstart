@@ -39,4 +39,11 @@ weight = 7
   name = "Photography"
   description = "10%"
 
+[[feature]]
+  icon = "ambulance"
+  icon_pack = "fas"
+  name = "Speicals \m Skills"
+  description = "100%"
+
+
 +++
